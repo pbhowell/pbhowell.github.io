@@ -1,0 +1,19 @@
+{
+  "name": "pbhowell.github.io",
+  "version": "1.0.0",
+  "description": "Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbhowell/pbhowell.github.io.git"
+  },
+  "author": "pbhowelljr@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbhowell/pbhowell.github.io/issues"
+  },
+  "homepage": "https://github.com/pbhowell/pbhowell.github.io#readme"
+}
